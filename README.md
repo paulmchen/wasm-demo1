@@ -24,4 +24,5 @@ Setup RUST env.  https://docs.wasmer.io/integrations/rust/setup
 
 ### Run .wasm binary
 `cd target/wasm32-unknown-unknown/release/`
+
 `wasmer sum.wasm -i sum 128  22`
