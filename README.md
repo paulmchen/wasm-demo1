@@ -1,4 +1,4 @@
-# DEMO: Compile a RUST code into WASM binary and then run it under the  wasmer runtime
+# DEMO: Compile RUST code into WASM binary and then run it under the  wasmer runtime
 ## Example: a RUST lib used to sum two integer numbers
 
 ### Pre-requisite: Install wasmer runtime
